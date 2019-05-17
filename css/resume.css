@@ -17,6 +17,10 @@ body {
   }
 }
 
+h6 {
+  display: inline!important;
+}
+
 h1,
 h2,
 h3,
